@@ -1,2 +1,2 @@
-# Flutter_Project
-Aquí estara disponible el proyecto del Reporte Final del parcial II
+# React-Native
+Aquí estara disponible el proyecto de la aplicación de React-Nativee
